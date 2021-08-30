@@ -51,9 +51,13 @@ My goto languages are Python and Java for interviews
 
 1. Udemy
 
-#### Practice resource
+#### Practice resources
 
 1. Leetcode
+
+1. Hackerrank
+
+1. Codility
 
 #### Community source for doubts and questions
 
