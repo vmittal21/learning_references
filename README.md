@@ -1,14 +1,13 @@
 # Learning References
 
-Best Learning sources for fresh graduate interviews
 
-*This post mainly focuses for students who are preparing for SDE positions*
+This post mainly focuses for students who are preparing for SDE positions
 
-*My goto languages are Python and Java for interviews*
-
+My goto languages are Python and Java for interviews
 
 
-# Do's while preparing
+
+## Do's while preparing
 
 *Fix only two or three sources for preparation*
 
@@ -24,7 +23,7 @@ Best Learning sources for fresh graduate interviews
 
 
 
-# Don't 
+## Don't 
 
 *Don't go for too many free sources as you might end up working on same concept again and again and get caught up in the loop*
 
