@@ -30,11 +30,43 @@ My goto languages are Python and Java for interviews
 *Don't keep switching between technologies*
 
 
-#############################################################
 
 ## Resource List
 
+#### Best Offline reading resource available
+
 1. Cracking the coding interview
 
+#### Online reading resources
+
+1. Algomonster
+
+1. InterviewCake
+
+1. Geeksforgeeks
+
+1. Tutorialspoint
+
+#### Online video courses resource
+
+1. Udemy
+
+#### Practice resource
+
 1. Leetcode
+
+#### Community source for doubts and questions
+
+1. Stackoverflow
+
+1. Geeksforgeeks
+
+1. Quora
+
+
+
+
+
+
+
 
