@@ -34,5 +34,7 @@ My goto languages are Python and Java for interviews
 
 ## Resource List
 
+1. Cracking the coding interview
 
+1. Leetcode
 
