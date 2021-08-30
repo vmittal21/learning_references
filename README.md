@@ -30,4 +30,9 @@ My goto languages are Python and Java for interviews
 *Don't keep switching between technologies*
 
 
+#############################################################
+
+## Resource List
+
+
 
